@@ -1,0 +1,1 @@
+First journal entry of this code fellows program. Monday was a long lecture day but was relatively easy. Day two on the other had was a lot more tough. I really like the learning style of this program and I hope I can keep up. So far I'm treading water but we will see how ill be feeling come Friday.
