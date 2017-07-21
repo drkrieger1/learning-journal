@@ -1,0 +1,1 @@
+Thursday lab I worked on the stretch goals to count up the totals for every hour on all stores. This was hard to do because my logic for it was a little off. I was able to get it to work with two for loops. I need to do one more loop for the total totals. 
